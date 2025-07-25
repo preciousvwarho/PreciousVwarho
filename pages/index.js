@@ -195,7 +195,7 @@ export default function Home() {
                     </div>
                   <div className="col-md-3">
                      <div className="prof-text-energie wow fadeInRight" data-wow-duration="1s" data-wow-delay="1.5s">
-                        <h3 className="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Entero Mobile App</h3>
+                        <h3 className="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">Entero Mobile App </h3>
                         <span className="project-stack"><span>Front-end Developer&nbsp; • &nbsp;</span><span>UI Designer</span></span>
                         <p className="page-p">Seamlessly manage your real estate transactions with real-time updates.</p>
                             <a target="_blank" rel="noopener noreferrer" className="view-btn" href="https://play.google.com/store/apps/details?id=com.enterohomes&hl=en" >view project</a>
